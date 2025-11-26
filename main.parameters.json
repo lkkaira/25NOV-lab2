@@ -1,0 +1,50 @@
+
+
+{
+
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+
+  "contentVersion": "1.0.0.0",
+
+  "parameters": {
+
+    "location": {
+
+      "value": "centralindia"
+
+    },
+
+    "storageAccountName": {
+
+      "value": "stkhushilab1234"
+
+    },
+
+    "webAppName": {
+
+      "value": "khushi-lab-web-001"
+
+    },
+
+    "planName": {
+
+      "value": "asp-khushi-lab"
+
+    },
+
+    "planSkuName": {
+
+      "value": "B1"
+
+    },
+
+    "planSkuTier": {
+
+      "value": "Basic"
+
+    }
+
+  }
+
+}
+ 
