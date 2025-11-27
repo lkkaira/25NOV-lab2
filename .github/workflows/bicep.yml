@@ -10,7 +10,7 @@ on:
 
   push:
 
-    branches: [ master ]   # ✅ Changed to master
+    branches: [ main ]   # ✅ Changed to master
 
     paths:
 
@@ -20,7 +20,7 @@ on:
 
   pull_request:
 
-    branches: [ master ]   # ✅ Changed to master
+    branches: [ main ]   # ✅ Changed to master
 
     paths:
 
